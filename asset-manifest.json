@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/social-network/static/css/main.0419cdb6.css",
+    "main.js": "/social-network/static/js/main.baea34ad.js",
+    "static/js/453.3e231252.chunk.js": "/social-network/static/js/453.3e231252.chunk.js",
+    "index.html": "/social-network/index.html",
+    "main.0419cdb6.css.map": "/social-network/static/css/main.0419cdb6.css.map",
+    "main.baea34ad.js.map": "/social-network/static/js/main.baea34ad.js.map",
+    "453.3e231252.chunk.js.map": "/social-network/static/js/453.3e231252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0419cdb6.css",
+    "static/js/main.baea34ad.js"
+  ]
+}
